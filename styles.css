@@ -1,15 +1,21 @@
-.first_section {
+.section {
   width: 100%;
-  background: black;
   padding: 50px;
-  height: 800px;
+  height: 400px;
+}
+.section_odd {
+  background: black;
 }
 
-.letters_container {
+.section_even {
+  background: white;
+}
+
+.content_container {
   width: 100%;
 }
 
-.letters_row {
+.row {
   display: flex;
   width: 100%;
   text-align: center;
@@ -29,7 +35,6 @@
   color: teal;
   background: grey;
 }
-
 
 .letter {
   font-size: 100px;
