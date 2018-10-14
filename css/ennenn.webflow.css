@@ -5,6 +5,7 @@
   grid-row-gap: 0px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto auto auto;
+  cursor: default;
 }
 
 .e1-holder {
