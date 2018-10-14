@@ -7,9 +7,13 @@
 
 .letters_container {
   width: 100%;
-  position: relative;
+}
+
+.letters_row {
   display: flex;
-  flex-direction: row;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
 }
 
 .letter {
