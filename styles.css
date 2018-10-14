@@ -16,17 +16,22 @@
   justify-content: center;
 }
 
-.letter {
+.primary {
   width: 80px;
   height: 100px;
-}
-
-.primary {
   color: yellow;
   background: pink;
 }
 
 .secondary {
+  width: 80px;
+  height: 100px;
   color: teal;
   background: grey;
+}
+
+
+.letter {
+  font-size: 100px;
+  font-family: Arial;
 }
